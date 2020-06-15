@@ -1,2 +1,2 @@
-# WebScrapper
-Simple WebScrapper using Beautiful Soup.
+# WebScraper
+Simple WebScraper using Beautiful Soup.
